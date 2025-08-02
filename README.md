@@ -1,9 +1,7 @@
-## Setup & Run (Web)
-1. flutter config --enable-web
-2. flutter run -d chrome
- 
-## Branch & Commit
-- git checkout feature/home-screen
-- git add .
-- git commit
+# flutter_application_1
 
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
